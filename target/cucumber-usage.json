@@ -1,0 +1,186 @@
+[
+  {
+    "source": "^browse$",
+    "steps": [
+      {
+        "name": "browse",
+        "aggregatedDurations": {
+          "average": 0.0556705,
+          "median": 0.0556705
+        },
+        "durations": [
+          {
+            "duration": 0.0556705,
+            "location": "LJQuery.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click the chapters link and user get the navigated page url and page title and user get back to the home page$",
+    "steps": [
+      {
+        "name": "user click the chapters link and user get the navigated page url and page title and user get back to the home page",
+        "aggregatedDurations": {
+          "average": 4.7529293,
+          "median": 4.7529293
+        },
+        "durations": [
+          {
+            "duration": 4.7529293,
+            "location": "LearnJquery.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click the Recently Updated link and user get the navigated page url and page title and user get back to the home$",
+    "steps": [
+      {
+        "name": "user click the Recently Updated link and user get the navigated page url and page title and user get back to the home",
+        "aggregatedDurations": {
+          "average": 4.6902386,
+          "median": 4.6902386
+        },
+        "durations": [
+          {
+            "duration": 4.6902386,
+            "location": "LJQuery.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click the chapters link and user get the navigated page url and page title and user get back to the home$",
+    "steps": [
+      {
+        "name": "user click the chapters link and user get the navigated page url and page title and user get back to the home",
+        "aggregatedDurations": {
+          "average": 4.652341,
+          "median": 4.652341
+        },
+        "durations": [
+          {
+            "duration": 4.652341,
+            "location": "LJQuery.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^browser close$",
+    "steps": [
+      {
+        "name": "browser close",
+        "aggregatedDurations": {
+          "average": 0.0630328,
+          "median": 0.0630328
+        },
+        "durations": [
+          {
+            "duration": 0.0630328,
+            "location": "LearnJquery.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user click the Recently Updated link and user get the navigated page url and page title and user get back to the home page$",
+    "steps": [
+      {
+        "name": "user click the Recently Updated link and user get the navigated page url and page title and user get back to the home page",
+        "aggregatedDurations": {
+          "average": 4.6591177,
+          "median": 4.6591177
+        },
+        "durations": [
+          {
+            "duration": 4.6591177,
+            "location": "LearnJquery.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user goes to the LearnJquery website$",
+    "steps": [
+      {
+        "name": "user goes to the LearnJquery website",
+        "aggregatedDurations": {
+          "average": 0.0261529,
+          "median": 0.0261529
+        },
+        "durations": [
+          {
+            "duration": 0.0261529,
+            "location": "LearnJquery.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user goes to the LearnJquery$",
+    "steps": [
+      {
+        "name": "user goes to the LearnJquery",
+        "aggregatedDurations": {
+          "average": 0.0351499,
+          "median": 0.0351499
+        },
+        "durations": [
+          {
+            "duration": 0.0351499,
+            "location": "LJQuery.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on Jquery page$",
+    "steps": [
+      {
+        "name": "user is already on Jquery page",
+        "aggregatedDurations": {
+          "average": 3.8905066,
+          "median": 3.8905066
+        },
+        "durations": [
+          {
+            "duration": 3.8905066,
+            "location": "LearnJquery.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user is already on Jquery$",
+    "steps": [
+      {
+        "name": "user is already on Jquery",
+        "aggregatedDurations": {
+          "average": 6.1554251,
+          "median": 6.1554251
+        },
+        "durations": [
+          {
+            "duration": 7.3971962,
+            "location": "LJQuery.feature:5"
+          },
+          {
+            "duration": 4.913654,
+            "location": "Test.feature:5"
+          }
+        ]
+      }
+    ]
+  }
+]

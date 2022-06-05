@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="3" time="35.218561">
+<testcase classname="LJQuery Chapters and Recently Updated Links feature" name="Chapters link test scenario and Updated links test scenario" time="16.897357">
+<system-out><![CDATA[Given user is already on Jquery.............................................passed
+When user goes to the LearnJquery...........................................passed
+Then user click the chapters link and user get the navigated page url and page title and user get back to the home.passed
+Then user click the Recently Updated link and user get the navigated page url and page title and user get back to the home.passed
+Then browse.................................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="LearnJquery Chapters and Recently Updated Links feature" name="Chapters link test scenario and Updated links test scenario" time="13.398001">
+<system-out><![CDATA[Given user is already on Jquery page........................................passed
+When user goes to the LearnJquery website...................................passed
+Then user click the chapters link and user get the navigated page url and page title and user get back to the home page.passed
+Then user click the Recently Updated link and user get the navigated page url and page title and user get back to the home page.passed
+Then browser close..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="JQuery Links Testing" name="Testing Links under Jquery portal" time="4.923203">
+<skipped><![CDATA[Given user is already on Jquery.............................................passed
+When user went to the LearnJquery...........................................undefined
+Then user click on chapters link and user get the navigated page url and page title and user get back to the home.undefined
+Then user click on Recently Updated link and user get the navigated page url and page title and user get back to the home.undefined
+Then browse.................................................................skipped
+]]></skipped>
+</testcase>
+</testsuite>

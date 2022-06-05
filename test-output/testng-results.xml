@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CucumberJquery suite 1" duration-ms="18" started-at="2018-10-11T06:51:13Z" finished-at="2018-10-11T06:51:13Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="18" started-at="2018-10-11T06:51:13Z" finished-at="2018-10-11T06:51:13Z">
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- CucumberJquery suite 1 -->
+</testng-results>
